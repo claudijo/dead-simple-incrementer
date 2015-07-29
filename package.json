@@ -1,5 +1,5 @@
 {
-  "name": "dead-simple-incremeter",
+  "name": "dead-simple-incrementer",
   "version": "1.0.0",
   "description": "Dead simple integer incrementer.",
   "main": "index.js",
