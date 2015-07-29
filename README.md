@@ -22,6 +22,7 @@ inc.next(); // Returns 1
 inc.next(); // Returns 2;
 inc.next(); // Returns 3;
 // ... and so on.
+```
 
 ## Test
 
